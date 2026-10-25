@@ -1,0 +1,6 @@
+{
+  "name": "TAKA Journal",
+  "description": "A premium offline-first personal expense and finance journal designed for everyday use in Bangladesh, built with Jetpack Compose Material 3 and clean architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

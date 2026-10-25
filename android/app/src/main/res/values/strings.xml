@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TAKA Journal</string>
+    <string name="currency_symbol">৳</string>
+    <string name="currency_code">BDT</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_wallets">Wallets</string>
+    <string name="action_quick_add">Quick Add</string>
+
+    <string name="today_spending">Today\'s Spending</string>
+    <string name="month_spending">This Month</string>
+    <string name="income_summary">Total Income</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="budget_progress">Monthly Budget</string>
+
+    <string name="empty_home_title">No transactions yet</string>
+    <string name="empty_home_desc">Tap the + button to record your first daily expense or income in Taka.</string>
+    <string name="empty_wallets_title">No wallets created</string>
+    <string name="empty_wallets_desc">Add a cash wallet, bKash, Nagad, or bank account to organize your money.</string>
+</resources>
